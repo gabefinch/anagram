@@ -1,2 +1,1 @@
-This Sinatra web app takes a string and a list of strings and returns
-strings from the list that are anagrams of the initial string.
+This is a Sinatra web app written during the first week of Epicodus bootcamp as an exercise in writing Ruby methods. Given input of a primary string and an array of other strings, the website returns all strings from the array that are anagrams of the primary string. The method has test coverage using Rspec in accordance with Epicodus' emphasis on BDD.
